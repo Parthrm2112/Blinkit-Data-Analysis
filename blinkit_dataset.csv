@@ -1,0 +1,501 @@
+Item_Identifier,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+Item_1,10.62,Regular,0.038,Dairy,231.68,OUT4,2000,Large,Tier 2,Grocery Store,1375.07
+Item_2,19.26,Low Fat,0.236,Frozen Foods,217.71,OUT3,2014,Small,Tier 1,Grocery Store,640.02
+Item_3,15.98,Low Fat,0.161,Fruits,58.97,OUT4,2019,Medium,Tier 2,Supermarket,824.05
+Item_4,13.98,Low Fat,0.09,Dairy,169.44,OUT2,2018,Large,Tier 2,Grocery Store,778.13
+Item_5,7.34,Low Fat,0.043,Dairy,183.07,OUT2,2009,Large,Tier 3,Grocery Store,879.36
+Item_6,7.34,Low Fat,0.201,Frozen Foods,189.59,OUT1,2017,Medium,Tier 2,Supermarket,1330.06
+Item_7,5.87,Regular,0.159,Fruits,253.06,OUT5,2002,Small,Tier 3,Grocery Store,1444.79
+Item_8,17.99,Low Fat,0.138,Dairy,236.76,OUT4,2010,Small,Tier 3,Grocery Store,1268.13
+Item_9,14.02,Regular,0.225,Snacks,262.77,OUT1,2014,Large,Tier 2,Supermarket,1064.67
+Item_10,15.62,Regular,0.199,Snacks,317.71,OUT5,2010,Medium,Tier 1,Supermarket,1618.41
+Item_11,5.31,Low Fat,0.046,Snacks,334.55,OUT4,2016,Large,Tier 1,Supermarket,1819.44
+Item_12,19.55,Low Fat,0.085,Fruits,301.34,OUT3,2016,Medium,Tier 2,Grocery Store,1514.04
+Item_13,17.49,Regular,0.07,Dairy,384.43,OUT4,2005,Small,Tier 1,Supermarket,1724.56
+Item_14,8.19,Low Fat,0.189,Canned,56.38,OUT2,2004,Medium,Tier 3,Grocery Store,905.38
+Item_15,7.73,Low Fat,0.018,Fruits,118.52,OUT2,2007,Small,Tier 3,Grocery Store,788.85
+Item_16,7.75,Regular,0.147,Snacks,52.65,OUT3,2001,Medium,Tier 2,Grocery Store,416.47
+Item_17,9.56,Regular,0.193,Frozen Foods,276.62,OUT1,2015,Large,Tier 1,Grocery Store,851.93
+Item_18,12.87,Low Fat,0.22,Dairy,364.31,OUT5,2019,Small,Tier 1,Supermarket,1687.26
+Item_19,11.48,Regular,0.092,Dairy,135.22,OUT4,2011,Large,Tier 3,Supermarket,818.66
+Item_20,9.37,Low Fat,0.207,Household,374.46,OUT2,2005,Large,Tier 2,Grocery Store,1816.29
+Item_21,14.18,Low Fat,0.037,Household,71.09,OUT1,2000,Small,Tier 1,Supermarket,690.69
+Item_22,7.09,Low Fat,0.213,Vegetables,377.05,OUT3,2003,Small,Tier 2,Grocery Store,2032.9
+Item_23,9.38,Regular,0.041,Canned,173.07,OUT2,2016,Large,Tier 1,Grocery Store,836.64
+Item_24,10.5,Regular,0.105,Canned,85.5,OUT3,2012,Large,Tier 3,Grocery Store,378.85
+Item_25,11.84,Regular,0.201,Beverages,220.06,OUT4,2017,Large,Tier 3,Supermarket,1038.46
+Item_26,16.78,Regular,0.046,Canned,139.87,OUT5,2004,Large,Tier 2,Grocery Store,617.0
+Item_27,8.0,Regular,0.065,Household,149.71,OUT2,2002,Small,Tier 3,Grocery Store,1131.67
+Item_28,12.71,Low Fat,0.183,Fruits,157.55,OUT2,2010,Small,Tier 1,Supermarket,1340.5
+Item_29,13.89,Low Fat,0.183,Canned,331.06,OUT4,2012,Large,Tier 3,Supermarket,1491.93
+Item_30,5.7,Low Fat,0.164,Household,238.71,OUT1,2003,Medium,Tier 2,Supermarket,1620.98
+Item_31,14.11,Low Fat,0.177,Vegetables,158.96,OUT5,2013,Medium,Tier 2,Supermarket,1055.0
+Item_32,7.56,Regular,0.14,Dairy,263.62,OUT2,2021,Small,Tier 2,Grocery Store,1445.69
+Item_33,5.98,Low Fat,0.07,Canned,300.65,OUT5,2010,Large,Tier 1,Supermarket,1419.23
+Item_34,19.23,Regular,0.093,Vegetables,145.42,OUT2,2009,Large,Tier 1,Grocery Store,817.22
+Item_35,19.48,Low Fat,0.054,Dairy,194.74,OUT5,2018,Small,Tier 1,Supermarket,1402.0
+Item_36,17.13,Regular,0.228,Frozen Foods,92.66,OUT3,2017,Medium,Tier 1,Supermarket,595.45
+Item_37,9.57,Regular,0.15,Frozen Foods,113.4,OUT2,2005,Medium,Tier 1,Supermarket,959.57
+Item_38,6.47,Low Fat,0.106,Dairy,288.39,OUT5,2014,Medium,Tier 3,Supermarket,1443.73
+Item_39,15.26,Low Fat,0.121,Canned,113.5,OUT1,2020,Small,Tier 1,Supermarket,1090.58
+Item_40,11.6,Low Fat,0.237,Beverages,233.81,OUT3,2009,Medium,Tier 1,Supermarket,1207.14
+Item_41,6.83,Low Fat,0.047,Household,298.17,OUT3,2004,Small,Tier 3,Grocery Store,1113.34
+Item_42,12.43,Regular,0.151,Fruits,87.41,OUT1,2004,Small,Tier 1,Supermarket,383.88
+Item_43,5.52,Low Fat,0.131,Fruits,248.56,OUT5,2009,Large,Tier 2,Supermarket,1193.96
+Item_44,18.64,Low Fat,0.157,Snacks,139.8,OUT4,2004,Medium,Tier 1,Supermarket,979.38
+Item_45,8.88,Regular,0.014,Dairy,387.02,OUT1,2002,Small,Tier 1,Supermarket,1760.78
+Item_46,14.94,Low Fat,0.219,Fruits,219.24,OUT5,2022,Medium,Tier 2,Grocery Store,1013.39
+Item_47,9.68,Low Fat,0.234,Canned,332.1,OUT1,2005,Medium,Tier 2,Supermarket,1357.53
+Item_48,12.8,Low Fat,0.146,Beverages,242.58,OUT1,2003,Large,Tier 2,Supermarket,1474.18
+Item_49,13.2,Low Fat,0.177,Dairy,65.19,OUT2,2017,Medium,Tier 2,Supermarket,466.67
+Item_50,7.77,Low Fat,0.231,Beverages,271.6,OUT5,2008,Large,Tier 1,Supermarket,1023.81
+Item_51,19.54,Regular,0.18,Canned,382.99,OUT4,2016,Small,Tier 2,Grocery Store,1974.55
+Item_52,16.63,Low Fat,0.047,Fruits,260.56,OUT2,2012,Medium,Tier 2,Supermarket,1486.23
+Item_53,19.09,Low Fat,0.148,Fruits,336.72,OUT1,2014,Small,Tier 3,Grocery Store,1082.26
+Item_54,18.42,Low Fat,0.156,Snacks,359.47,OUT1,2019,Medium,Tier 2,Supermarket,1413.3
+Item_55,13.97,Low Fat,0.112,Fruits,129.83,OUT1,2016,Small,Tier 2,Grocery Store,853.5
+Item_56,18.83,Low Fat,0.187,Dairy,124.22,OUT5,2012,Medium,Tier 3,Grocery Store,788.27
+Item_57,6.33,Regular,0.234,Canned,263.84,OUT5,2015,Medium,Tier 3,Supermarket,1211.1
+Item_58,7.94,Low Fat,0.232,Frozen Foods,193.86,OUT2,2021,Medium,Tier 1,Supermarket,1152.92
+Item_59,5.68,Regular,0.118,Canned,343.95,OUT4,2003,Medium,Tier 3,Grocery Store,1081.66
+Item_60,9.88,Regular,0.037,Dairy,365.01,OUT2,2004,Medium,Tier 1,Grocery Store,1390.06
+Item_61,10.83,Low Fat,0.246,Dairy,173.7,OUT3,2004,Medium,Tier 3,Supermarket,1392.9
+Item_62,9.07,Low Fat,0.211,Snacks,132.9,OUT1,2008,Medium,Tier 3,Grocery Store,1157.35
+Item_63,17.43,Low Fat,0.04,Snacks,323.18,OUT1,2016,Medium,Tier 1,Grocery Store,1049.93
+Item_64,10.35,Low Fat,0.231,Fruits,146.18,OUT1,2012,Medium,Tier 3,Grocery Store,905.92
+Item_65,9.21,Regular,0.219,Vegetables,337.92,OUT2,2001,Small,Tier 1,Supermarket,1796.74
+Item_66,13.14,Low Fat,0.135,Canned,198.31,OUT2,2012,Large,Tier 3,Grocery Store,1284.25
+Item_67,7.11,Low Fat,0.152,Canned,283.64,OUT1,2021,Medium,Tier 2,Grocery Store,1446.91
+Item_68,17.03,Low Fat,0.106,Vegetables,83.44,OUT2,2020,Large,Tier 3,Grocery Store,691.31
+Item_69,6.12,Low Fat,0.023,Snacks,268.35,OUT5,2022,Medium,Tier 1,Supermarket,1872.13
+Item_70,19.8,Low Fat,0.09,Fruits,208.12,OUT5,2018,Medium,Tier 3,Supermarket,1101.84
+Item_71,16.58,Low Fat,0.203,Vegetables,255.31,OUT2,2002,Small,Tier 1,Grocery Store,1140.28
+Item_72,7.98,Regular,0.011,Fruits,108.8,OUT1,2009,Small,Tier 1,Supermarket,1039.37
+Item_73,5.08,Regular,0.09,Fruits,307.91,OUT2,2001,Large,Tier 2,Grocery Store,1469.44
+Item_74,17.23,Low Fat,0.106,Fruits,351.98,OUT2,2012,Small,Tier 2,Supermarket,1518.11
+Item_75,15.6,Low Fat,0.139,Household,125.86,OUT2,2018,Small,Tier 1,Supermarket,902.01
+Item_76,15.94,Low Fat,0.231,Dairy,83.5,OUT3,2016,Large,Tier 3,Grocery Store,899.03
+Item_77,16.57,Regular,0.093,Fruits,58.27,OUT5,2020,Small,Tier 1,Supermarket,453.26
+Item_78,6.11,Low Fat,0.093,Household,274.69,OUT4,2013,Medium,Tier 1,Supermarket,837.31
+Item_79,10.38,Regular,0.187,Snacks,262.48,OUT4,2011,Large,Tier 3,Supermarket,1476.18
+Item_80,6.74,Low Fat,0.119,Vegetables,241.34,OUT3,2020,Large,Tier 3,Grocery Store,1442.65
+Item_81,17.95,Low Fat,0.064,Dairy,131.18,OUT2,2011,Medium,Tier 3,Supermarket,939.88
+Item_82,14.35,Low Fat,0.119,Frozen Foods,186.82,OUT3,2010,Small,Tier 3,Supermarket,892.23
+Item_83,9.96,Low Fat,0.044,Vegetables,258.07,OUT3,2006,Large,Tier 1,Grocery Store,1508.71
+Item_84,5.95,Regular,0.052,Dairy,223.87,OUT1,2003,Large,Tier 1,Supermarket,1284.4
+Item_85,9.66,Regular,0.13,Frozen Foods,395.72,OUT5,2018,Medium,Tier 2,Supermarket,1873.36
+Item_86,9.88,Low Fat,0.111,Vegetables,97.75,OUT4,2000,Medium,Tier 1,Supermarket,771.35
+Item_87,15.94,Low Fat,0.23,Dairy,293.3,OUT2,2002,Small,Tier 3,Supermarket,1007.44
+Item_88,14.56,Regular,0.097,Vegetables,191.51,OUT4,2012,Large,Tier 2,Supermarket,945.83
+Item_89,18.31,Regular,0.149,Vegetables,199.87,OUT4,2014,Small,Tier 3,Grocery Store,968.41
+Item_90,12.08,Regular,0.162,Frozen Foods,301.16,OUT5,2001,Small,Tier 1,Grocery Store,1742.13
+Item_91,6.79,Regular,0.013,Vegetables,292.35,OUT4,2010,Medium,Tier 2,Supermarket,1546.96
+Item_92,15.7,Low Fat,0.169,Vegetables,396.94,OUT4,2003,Large,Tier 3,Supermarket,1861.23
+Item_93,16.41,Regular,0.053,Frozen Foods,94.94,OUT3,2018,Large,Tier 2,Supermarket,322.19
+Item_94,13.42,Low Fat,0.241,Snacks,86.44,OUT5,2016,Large,Tier 2,Grocery Store,643.73
+Item_95,16.56,Regular,0.046,Fruits,303.52,OUT1,2002,Medium,Tier 1,Grocery Store,767.03
+Item_96,12.41,Regular,0.11,Canned,252.44,OUT2,2017,Medium,Tier 3,Supermarket,768.71
+Item_97,12.84,Regular,0.03,Beverages,145.96,OUT4,2007,Medium,Tier 2,Supermarket,679.56
+Item_98,11.41,Regular,0.249,Household,77.8,OUT2,2021,Medium,Tier 2,Grocery Store,878.49
+Item_99,5.38,Regular,0.131,Beverages,79.98,OUT1,2018,Medium,Tier 3,Supermarket,659.55
+Item_100,6.62,Low Fat,0.153,Beverages,362.97,OUT2,2004,Large,Tier 2,Grocery Store,1325.74
+Item_101,5.47,Low Fat,0.026,Dairy,117.15,OUT1,2006,Small,Tier 2,Grocery Store,812.17
+Item_102,14.55,Regular,0.19,Fruits,163.18,OUT3,2020,Large,Tier 2,Supermarket,580.53
+Item_103,9.72,Regular,0.06,Dairy,129.33,OUT4,2007,Small,Tier 3,Grocery Store,620.63
+Item_104,12.63,Low Fat,0.226,Fruits,174.25,OUT1,2004,Medium,Tier 3,Supermarket,1075.91
+Item_105,18.61,Regular,0.059,Frozen Foods,74.3,OUT2,2016,Small,Tier 3,Supermarket,724.65
+Item_106,8.74,Regular,0.056,Frozen Foods,231.67,OUT4,2004,Large,Tier 3,Supermarket,1192.98
+Item_107,11.16,Low Fat,0.019,Canned,73.66,OUT3,2003,Large,Tier 1,Supermarket,1074.88
+Item_108,16.33,Regular,0.123,Fruits,330.12,OUT4,2021,Small,Tier 2,Supermarket,1506.61
+Item_109,8.43,Regular,0.146,Vegetables,131.8,OUT1,2018,Medium,Tier 3,Supermarket,798.77
+Item_110,6.15,Low Fat,0.026,Snacks,239.0,OUT3,2020,Medium,Tier 2,Grocery Store,1334.97
+Item_111,9.35,Low Fat,0.196,Canned,358.03,OUT2,2001,Large,Tier 2,Grocery Store,1405.64
+Item_112,7.42,Low Fat,0.119,Canned,277.81,OUT3,2010,Small,Tier 1,Grocery Store,1373.65
+Item_113,18.95,Regular,0.136,Vegetables,236.54,OUT3,2021,Medium,Tier 3,Grocery Store,1167.18
+Item_114,17.12,Low Fat,0.116,Snacks,163.52,OUT5,2012,Medium,Tier 3,Supermarket,552.82
+Item_115,14.5,Low Fat,0.106,Dairy,166.55,OUT3,2014,Large,Tier 2,Grocery Store,1044.9
+Item_116,18.07,Low Fat,0.144,Snacks,284.32,OUT3,2011,Medium,Tier 3,Grocery Store,1657.58
+Item_117,17.06,Low Fat,0.047,Dairy,397.95,OUT4,2021,Small,Tier 2,Grocery Store,1822.71
+Item_118,7.8,Low Fat,0.054,Frozen Foods,281.64,OUT2,2020,Large,Tier 2,Supermarket,1535.01
+Item_119,18.39,Low Fat,0.217,Beverages,245.22,OUT4,2021,Large,Tier 1,Grocery Store,1317.98
+Item_120,13.09,Regular,0.237,Frozen Foods,305.73,OUT4,2010,Small,Tier 1,Supermarket,1843.11
+Item_121,17.11,Regular,0.1,Frozen Foods,212.82,OUT1,2006,Large,Tier 1,Grocery Store,1210.87
+Item_122,18.44,Low Fat,0.075,Beverages,71.05,OUT4,2004,Medium,Tier 2,Supermarket,853.52
+Item_123,9.77,Low Fat,0.165,Snacks,246.8,OUT5,2016,Medium,Tier 3,Supermarket,1331.1
+Item_124,6.65,Low Fat,0.108,Canned,385.17,OUT5,2019,Small,Tier 1,Grocery Store,1832.73
+Item_125,8.42,Regular,0.016,Snacks,111.36,OUT1,2008,Medium,Tier 3,Supermarket,808.92
+Item_126,11.41,Regular,0.047,Dairy,291.5,OUT2,2013,Small,Tier 1,Supermarket,1241.59
+Item_127,17.27,Regular,0.182,Vegetables,120.33,OUT2,2011,Small,Tier 1,Grocery Store,487.06
+Item_128,17.91,Regular,0.168,Dairy,237.54,OUT4,2005,Medium,Tier 2,Grocery Store,1326.12
+Item_129,5.1,Regular,0.017,Vegetables,83.84,OUT4,2016,Small,Tier 1,Grocery Store,979.27
+Item_130,12.66,Regular,0.063,Frozen Foods,207.63,OUT4,2018,Medium,Tier 1,Supermarket,1027.11
+Item_131,11.26,Regular,0.065,Beverages,314.66,OUT2,2018,Large,Tier 2,Supermarket,1328.64
+Item_132,8.33,Regular,0.171,Frozen Foods,171.65,OUT3,2015,Large,Tier 3,Supermarket,1102.19
+Item_133,6.8,Regular,0.015,Fruits,282.72,OUT5,2011,Small,Tier 1,Grocery Store,897.98
+Item_134,10.06,Low Fat,0.035,Snacks,328.41,OUT3,2011,Medium,Tier 2,Supermarket,1177.69
+Item_135,19.14,Low Fat,0.202,Vegetables,374.51,OUT3,2019,Medium,Tier 1,Supermarket,1026.84
+Item_136,9.85,Low Fat,0.053,Dairy,132.12,OUT2,2005,Large,Tier 2,Supermarket,1153.52
+Item_137,12.78,Low Fat,0.167,Beverages,189.76,OUT3,2022,Large,Tier 3,Supermarket,1228.03
+Item_138,15.55,Regular,0.067,Vegetables,103.35,OUT1,2003,Medium,Tier 3,Supermarket,571.27
+Item_139,10.45,Regular,0.034,Dairy,397.37,OUT4,2005,Small,Tier 2,Supermarket,1682.07
+Item_140,19.58,Low Fat,0.068,Snacks,374.45,OUT1,2010,Large,Tier 2,Supermarket,2054.35
+Item_141,19.44,Regular,0.183,Frozen Foods,238.98,OUT5,2000,Small,Tier 2,Grocery Store,1254.07
+Item_142,8.78,Low Fat,0.215,Snacks,344.71,OUT4,2022,Small,Tier 3,Grocery Store,1478.05
+Item_143,12.46,Regular,0.209,Household,232.34,OUT3,2014,Large,Tier 1,Grocery Store,1093.48
+Item_144,9.51,Low Fat,0.105,Fruits,268.25,OUT5,2010,Small,Tier 3,Supermarket,1311.48
+Item_145,9.27,Regular,0.17,Household,81.19,OUT4,2018,Small,Tier 2,Supermarket,775.72
+Item_146,5.55,Regular,0.059,Beverages,314.34,OUT3,2017,Medium,Tier 2,Grocery Store,1324.45
+Item_147,14.14,Low Fat,0.08,Vegetables,94.7,OUT1,2016,Small,Tier 3,Supermarket,946.08
+Item_148,12.54,Regular,0.225,Beverages,339.12,OUT4,2018,Medium,Tier 2,Grocery Store,909.48
+Item_149,5.77,Low Fat,0.013,Frozen Foods,323.71,OUT3,2020,Large,Tier 3,Supermarket,1337.39
+Item_150,9.18,Low Fat,0.031,Dairy,298.06,OUT1,2013,Large,Tier 2,Supermarket,1098.14
+Item_151,18.62,Low Fat,0.06,Snacks,62.66,OUT5,2017,Medium,Tier 1,Grocery Store,1022.32
+Item_152,8.59,Low Fat,0.016,Household,156.09,OUT5,2018,Large,Tier 1,Grocery Store,830.61
+Item_153,7.17,Regular,0.054,Canned,142.09,OUT5,2014,Small,Tier 2,Grocery Store,985.79
+Item_154,12.34,Regular,0.15,Household,176.05,OUT5,2014,Small,Tier 3,Grocery Store,855.35
+Item_155,19.78,Regular,0.111,Frozen Foods,80.67,OUT2,2003,Small,Tier 1,Grocery Store,646.15
+Item_156,8.63,Low Fat,0.224,Household,377.94,OUT4,2006,Large,Tier 3,Supermarket,1558.76
+Item_157,15.08,Regular,0.206,Frozen Foods,243.83,OUT4,2012,Small,Tier 2,Supermarket,1255.69
+Item_158,16.42,Low Fat,0.092,Canned,156.93,OUT2,2002,Large,Tier 3,Supermarket,885.13
+Item_159,8.56,Regular,0.072,Beverages,188.94,OUT3,2015,Small,Tier 1,Grocery Store,720.98
+Item_160,15.92,Regular,0.101,Snacks,206.52,OUT3,2008,Medium,Tier 3,Grocery Store,937.09
+Item_161,10.52,Regular,0.152,Vegetables,260.21,OUT5,2007,Large,Tier 3,Grocery Store,1387.57
+Item_162,14.48,Low Fat,0.074,Dairy,230.49,OUT1,2019,Large,Tier 2,Grocery Store,1243.96
+Item_163,14.5,Regular,0.16,Vegetables,371.79,OUT3,2012,Small,Tier 2,Grocery Store,1380.0
+Item_164,13.04,Regular,0.108,Beverages,223.94,OUT1,2016,Large,Tier 2,Grocery Store,1129.42
+Item_165,6.35,Low Fat,0.142,Dairy,397.26,OUT4,2016,Large,Tier 1,Supermarket,1843.2
+Item_166,17.53,Regular,0.115,Household,348.0,OUT1,2016,Medium,Tier 1,Supermarket,1214.42
+Item_167,9.81,Low Fat,0.081,Canned,122.98,OUT4,2000,Medium,Tier 2,Supermarket,1025.14
+Item_168,7.8,Regular,0.238,Canned,375.71,OUT2,2007,Small,Tier 2,Supermarket,1517.24
+Item_169,5.61,Low Fat,0.193,Fruits,90.73,OUT2,2018,Medium,Tier 1,Supermarket,569.85
+Item_170,13.86,Low Fat,0.044,Beverages,336.11,OUT5,2005,Small,Tier 1,Grocery Store,1433.02
+Item_171,15.16,Regular,0.218,Beverages,183.22,OUT3,2002,Small,Tier 1,Grocery Store,907.85
+Item_172,5.25,Low Fat,0.127,Snacks,357.29,OUT5,2004,Small,Tier 1,Grocery Store,1835.17
+Item_173,12.68,Low Fat,0.225,Vegetables,353.82,OUT4,2012,Large,Tier 2,Grocery Store,1648.66
+Item_174,8.4,Low Fat,0.202,Beverages,332.07,OUT5,2014,Medium,Tier 1,Grocery Store,1532.72
+Item_175,14.68,Low Fat,0.112,Beverages,326.51,OUT1,2013,Small,Tier 2,Grocery Store,1356.33
+Item_176,7.62,Low Fat,0.015,Household,156.64,OUT4,2022,Medium,Tier 3,Supermarket,1019.19
+Item_177,15.36,Low Fat,0.074,Household,78.32,OUT2,2015,Small,Tier 3,Grocery Store,431.55
+Item_178,10.8,Regular,0.14,Dairy,191.04,OUT3,2017,Medium,Tier 1,Grocery Store,1509.13
+Item_179,19.05,Low Fat,0.162,Frozen Foods,110.73,OUT4,2021,Medium,Tier 3,Grocery Store,817.71
+Item_180,7.06,Low Fat,0.072,Frozen Foods,293.23,OUT4,2021,Small,Tier 3,Grocery Store,1246.3
+Item_181,10.12,Regular,0.043,Fruits,171.13,OUT1,2010,Large,Tier 3,Supermarket,1125.61
+Item_182,6.7,Regular,0.21,Frozen Foods,391.46,OUT3,2002,Medium,Tier 1,Supermarket,1626.03
+Item_183,18.87,Regular,0.246,Snacks,274.34,OUT2,2021,Large,Tier 1,Grocery Store,1346.65
+Item_184,18.16,Regular,0.136,Fruits,337.87,OUT4,2009,Large,Tier 3,Supermarket,1760.88
+Item_185,8.87,Regular,0.051,Dairy,96.38,OUT4,2009,Small,Tier 2,Supermarket,697.19
+Item_186,14.9,Regular,0.075,Household,351.71,OUT1,2020,Small,Tier 3,Grocery Store,1248.71
+Item_187,17.26,Regular,0.014,Frozen Foods,372.97,OUT5,2015,Small,Tier 1,Grocery Store,1338.67
+Item_188,13.33,Low Fat,0.229,Vegetables,220.47,OUT2,2011,Medium,Tier 1,Grocery Store,1369.24
+Item_189,12.94,Low Fat,0.038,Household,262.19,OUT3,2001,Small,Tier 1,Grocery Store,1685.44
+Item_190,8.63,Regular,0.148,Canned,317.68,OUT4,2008,Small,Tier 3,Grocery Store,1148.1
+Item_191,6.4,Low Fat,0.076,Snacks,111.19,OUT4,2002,Medium,Tier 2,Supermarket,350.03
+Item_192,18.46,Low Fat,0.143,Household,225.9,OUT2,2014,Medium,Tier 1,Grocery Store,625.02
+Item_193,18.51,Low Fat,0.166,Snacks,189.53,OUT5,2002,Small,Tier 1,Grocery Store,1226.61
+Item_194,14.5,Regular,0.209,Snacks,101.23,OUT4,2018,Small,Tier 3,Grocery Store,1005.71
+Item_195,10.09,Regular,0.06,Snacks,178.64,OUT2,2017,Small,Tier 2,Supermarket,951.83
+Item_196,10.24,Low Fat,0.013,Dairy,73.86,OUT1,2007,Small,Tier 3,Grocery Store,788.31
+Item_197,15.89,Regular,0.043,Snacks,59.03,OUT5,2016,Large,Tier 1,Grocery Store,673.95
+Item_198,18.46,Low Fat,0.226,Snacks,97.31,OUT3,2007,Large,Tier 2,Grocery Store,624.43
+Item_199,18.31,Low Fat,0.22,Canned,387.09,OUT4,2006,Small,Tier 2,Supermarket,1994.04
+Item_200,16.7,Low Fat,0.153,Vegetables,242.34,OUT2,2006,Large,Tier 1,Grocery Store,780.8
+Item_201,14.63,Low Fat,0.154,Fruits,388.04,OUT1,2002,Medium,Tier 2,Grocery Store,1832.13
+Item_202,6.26,Regular,0.17,Beverages,201.37,OUT3,2000,Large,Tier 2,Grocery Store,999.36
+Item_203,7.42,Regular,0.052,Canned,159.14,OUT2,2003,Large,Tier 3,Supermarket,1472.85
+Item_204,18.48,Regular,0.229,Fruits,227.15,OUT2,2004,Small,Tier 1,Grocery Store,894.89
+Item_205,14.1,Low Fat,0.111,Snacks,203.83,OUT3,2000,Large,Tier 1,Grocery Store,939.17
+Item_206,5.14,Regular,0.102,Vegetables,86.98,OUT1,2014,Large,Tier 1,Grocery Store,799.48
+Item_207,6.52,Low Fat,0.135,Household,274.29,OUT1,2004,Large,Tier 1,Supermarket,1398.75
+Item_208,14.95,Regular,0.021,Vegetables,125.61,OUT5,2012,Large,Tier 1,Grocery Store,932.82
+Item_209,5.08,Low Fat,0.05,Canned,266.86,OUT4,2007,Medium,Tier 2,Grocery Store,1271.93
+Item_210,7.41,Low Fat,0.187,Snacks,277.57,OUT3,2007,Small,Tier 3,Grocery Store,1516.69
+Item_211,13.23,Low Fat,0.03,Vegetables,103.21,OUT3,2004,Small,Tier 1,Supermarket,780.28
+Item_212,15.38,Regular,0.155,Frozen Foods,71.47,OUT3,2008,Medium,Tier 3,Supermarket,571.58
+Item_213,14.78,Regular,0.069,Vegetables,323.27,OUT1,2000,Large,Tier 3,Grocery Store,1558.57
+Item_214,8.36,Regular,0.103,Snacks,210.93,OUT4,2003,Medium,Tier 2,Supermarket,978.93
+Item_215,15.68,Regular,0.079,Dairy,70.36,OUT5,2002,Large,Tier 1,Supermarket,581.63
+Item_216,8.56,Low Fat,0.095,Frozen Foods,398.2,OUT2,2001,Medium,Tier 2,Supermarket,1697.94
+Item_217,9.88,Regular,0.183,Vegetables,70.22,OUT2,2007,Small,Tier 1,Grocery Store,666.79
+Item_218,16.2,Regular,0.081,Beverages,293.26,OUT3,2022,Small,Tier 2,Grocery Store,1511.69
+Item_219,14.74,Low Fat,0.146,Beverages,394.29,OUT4,2008,Small,Tier 3,Supermarket,2119.17
+Item_220,17.74,Low Fat,0.124,Vegetables,133.71,OUT1,2001,Large,Tier 1,Supermarket,1272.93
+Item_221,14.86,Low Fat,0.169,Dairy,99.79,OUT4,2013,Large,Tier 3,Supermarket,616.47
+Item_222,13.52,Regular,0.235,Household,92.48,OUT4,2013,Medium,Tier 3,Grocery Store,925.61
+Item_223,6.41,Low Fat,0.186,Snacks,156.15,OUT1,2003,Medium,Tier 2,Grocery Store,971.62
+Item_224,10.52,Low Fat,0.062,Beverages,85.37,OUT3,2005,Small,Tier 1,Supermarket,833.4
+Item_225,8.98,Low Fat,0.017,Household,292.26,OUT4,2010,Large,Tier 3,Supermarket,1631.51
+Item_226,8.66,Regular,0.073,Vegetables,71.8,OUT2,2002,Medium,Tier 2,Supermarket,1059.06
+Item_227,19.6,Low Fat,0.153,Canned,228.3,OUT1,2007,Large,Tier 1,Supermarket,1572.23
+Item_228,10.9,Regular,0.022,Household,398.84,OUT5,2002,Large,Tier 1,Grocery Store,1870.75
+Item_229,18.38,Regular,0.129,Frozen Foods,334.89,OUT3,2013,Small,Tier 3,Supermarket,1495.92
+Item_230,14.47,Low Fat,0.153,Fruits,265.33,OUT1,2012,Small,Tier 1,Grocery Store,1186.15
+Item_231,16.92,Low Fat,0.09,Beverages,157.19,OUT5,2012,Large,Tier 3,Supermarket,988.7
+Item_232,12.54,Regular,0.195,Vegetables,268.36,OUT5,2001,Large,Tier 1,Supermarket,1086.98
+Item_233,13.65,Low Fat,0.036,Canned,234.46,OUT4,2012,Large,Tier 2,Supermarket,1417.46
+Item_234,12.39,Low Fat,0.028,Snacks,199.13,OUT4,2018,Large,Tier 3,Supermarket,725.62
+Item_235,7.93,Regular,0.185,Canned,95.75,OUT4,2005,Small,Tier 3,Supermarket,943.61
+Item_236,15.84,Regular,0.129,Dairy,360.31,OUT1,2015,Medium,Tier 1,Grocery Store,875.3
+Item_237,9.21,Low Fat,0.175,Frozen Foods,207.42,OUT1,2001,Small,Tier 1,Supermarket,896.02
+Item_238,5.36,Regular,0.114,Vegetables,118.12,OUT3,2007,Medium,Tier 3,Supermarket,1274.21
+Item_239,14.68,Low Fat,0.069,Snacks,178.72,OUT4,2016,Large,Tier 1,Supermarket,1318.5
+Item_240,7.66,Low Fat,0.207,Dairy,194.95,OUT5,2022,Medium,Tier 2,Grocery Store,1234.32
+Item_241,19.11,Low Fat,0.202,Dairy,339.64,OUT2,2001,Small,Tier 1,Grocery Store,1261.62
+Item_242,19.31,Regular,0.177,Vegetables,306.77,OUT3,2009,Small,Tier 2,Grocery Store,1728.62
+Item_243,18.72,Low Fat,0.075,Frozen Foods,319.26,OUT1,2015,Large,Tier 2,Grocery Store,1562.43
+Item_244,10.55,Low Fat,0.152,Household,53.86,OUT3,2005,Small,Tier 2,Supermarket,768.06
+Item_245,5.23,Low Fat,0.097,Household,195.65,OUT3,2001,Large,Tier 2,Supermarket,1320.34
+Item_246,18.92,Regular,0.032,Dairy,218.47,OUT3,2001,Small,Tier 2,Supermarket,1285.0
+Item_247,11.42,Regular,0.23,Household,56.72,OUT3,2012,Small,Tier 1,Grocery Store,458.05
+Item_248,19.5,Regular,0.043,Fruits,140.93,OUT2,2014,Large,Tier 2,Supermarket,852.01
+Item_249,19.45,Regular,0.238,Dairy,316.1,OUT4,2001,Medium,Tier 1,Supermarket,981.53
+Item_250,17.8,Regular,0.117,Dairy,97.99,OUT5,2006,Small,Tier 2,Grocery Store,532.95
+Item_251,9.42,Low Fat,0.054,Snacks,237.36,OUT3,2002,Medium,Tier 3,Grocery Store,1232.93
+Item_252,10.78,Regular,0.14,Household,125.32,OUT3,2007,Small,Tier 2,Grocery Store,646.08
+Item_253,17.77,Regular,0.22,Frozen Foods,54.24,OUT3,2022,Small,Tier 3,Supermarket,760.26
+Item_254,9.75,Regular,0.186,Dairy,134.42,OUT4,2013,Small,Tier 2,Supermarket,1310.49
+Item_255,7.54,Low Fat,0.204,Canned,391.56,OUT1,2022,Small,Tier 2,Grocery Store,1559.39
+Item_256,13.35,Regular,0.168,Frozen Foods,330.54,OUT1,2021,Medium,Tier 2,Supermarket,1558.51
+Item_257,19.04,Regular,0.176,Fruits,385.85,OUT2,2006,Medium,Tier 3,Grocery Store,2109.95
+Item_258,15.44,Low Fat,0.214,Snacks,220.75,OUT1,2020,Small,Tier 3,Grocery Store,987.73
+Item_259,13.55,Regular,0.07,Vegetables,88.41,OUT3,2006,Small,Tier 2,Supermarket,554.95
+Item_260,6.46,Low Fat,0.127,Frozen Foods,241.79,OUT3,2000,Medium,Tier 1,Grocery Store,1238.95
+Item_261,14.23,Low Fat,0.063,Dairy,209.03,OUT3,2016,Large,Tier 2,Grocery Store,909.86
+Item_262,19.85,Low Fat,0.247,Fruits,345.52,OUT2,2008,Large,Tier 3,Grocery Store,1408.63
+Item_263,7.1,Low Fat,0.237,Beverages,84.33,OUT3,2020,Medium,Tier 2,Supermarket,679.17
+Item_264,12.77,Low Fat,0.019,Fruits,220.88,OUT1,2012,Small,Tier 3,Grocery Store,1155.82
+Item_265,18.16,Regular,0.179,Fruits,102.52,OUT4,2020,Small,Tier 3,Grocery Store,585.49
+Item_266,16.11,Low Fat,0.232,Snacks,163.64,OUT4,2018,Large,Tier 3,Grocery Store,1154.22
+Item_267,15.46,Low Fat,0.053,Vegetables,308.07,OUT5,2020,Large,Tier 2,Grocery Store,1344.44
+Item_268,15.54,Regular,0.146,Beverages,216.61,OUT1,2018,Medium,Tier 3,Grocery Store,1356.69
+Item_269,10.39,Low Fat,0.23,Household,181.56,OUT3,2021,Large,Tier 3,Grocery Store,1202.69
+Item_270,9.4,Regular,0.018,Household,188.07,OUT4,2016,Medium,Tier 2,Grocery Store,675.69
+Item_271,17.14,Regular,0.177,Frozen Foods,210.81,OUT1,2022,Large,Tier 3,Supermarket,1260.28
+Item_272,17.15,Regular,0.081,Fruits,324.76,OUT4,2022,Large,Tier 2,Supermarket,1300.31
+Item_273,18.01,Low Fat,0.232,Canned,362.23,OUT3,2009,Large,Tier 3,Grocery Store,1942.54
+Item_274,18.7,Low Fat,0.243,Snacks,384.37,OUT4,2009,Small,Tier 1,Supermarket,1764.46
+Item_275,12.67,Low Fat,0.237,Canned,325.42,OUT5,2003,Small,Tier 1,Supermarket,1636.92
+Item_276,12.52,Regular,0.124,Snacks,160.39,OUT5,2007,Small,Tier 3,Grocery Store,850.95
+Item_277,16.97,Low Fat,0.217,Household,290.85,OUT4,2021,Large,Tier 1,Supermarket,1106.69
+Item_278,14.75,Low Fat,0.213,Frozen Foods,203.16,OUT1,2019,Medium,Tier 2,Grocery Store,797.28
+Item_279,15.53,Low Fat,0.087,Frozen Foods,139.13,OUT1,2019,Medium,Tier 1,Grocery Store,1184.03
+Item_280,16.94,Regular,0.209,Frozen Foods,344.31,OUT1,2017,Medium,Tier 3,Grocery Store,1718.95
+Item_281,18.35,Regular,0.019,Beverages,63.45,OUT4,2013,Medium,Tier 3,Grocery Store,619.87
+Item_282,10.07,Low Fat,0.153,Vegetables,365.62,OUT1,2017,Small,Tier 2,Grocery Store,1288.42
+Item_283,10.63,Low Fat,0.065,Beverages,211.52,OUT3,2013,Small,Tier 3,Supermarket,948.98
+Item_284,6.41,Low Fat,0.039,Dairy,273.02,OUT5,2019,Large,Tier 2,Grocery Store,1321.96
+Item_285,13.67,Low Fat,0.028,Dairy,280.77,OUT3,2020,Large,Tier 1,Supermarket,1357.83
+Item_286,5.54,Regular,0.177,Canned,363.29,OUT1,2014,Medium,Tier 1,Grocery Store,1586.62
+Item_287,11.98,Regular,0.092,Vegetables,272.83,OUT3,2021,Small,Tier 2,Grocery Store,1412.15
+Item_288,13.14,Regular,0.184,Household,264.88,OUT1,2003,Medium,Tier 2,Grocery Store,1406.67
+Item_289,9.3,Regular,0.026,Vegetables,73.33,OUT4,2012,Large,Tier 3,Supermarket,641.52
+Item_290,13.86,Low Fat,0.086,Snacks,231.44,OUT3,2022,Large,Tier 1,Grocery Store,1052.06
+Item_291,5.46,Low Fat,0.139,Dairy,102.56,OUT4,2007,Medium,Tier 2,Grocery Store,498.8
+Item_292,5.56,Low Fat,0.2,Fruits,308.1,OUT4,2017,Large,Tier 1,Grocery Store,1408.4
+Item_293,17.34,Regular,0.087,Fruits,229.28,OUT2,2011,Medium,Tier 2,Grocery Store,777.5
+Item_294,10.4,Low Fat,0.16,Household,288.08,OUT1,2022,Small,Tier 1,Supermarket,1584.22
+Item_295,6.91,Regular,0.223,Snacks,64.59,OUT5,2013,Medium,Tier 3,Grocery Store,341.78
+Item_296,12.83,Regular,0.158,Canned,79.68,OUT1,2001,Small,Tier 1,Supermarket,902.18
+Item_297,16.55,Low Fat,0.066,Beverages,300.71,OUT5,2017,Small,Tier 1,Grocery Store,1888.26
+Item_298,8.24,Low Fat,0.016,Snacks,75.23,OUT1,2001,Large,Tier 1,Supermarket,864.16
+Item_299,14.34,Low Fat,0.219,Fruits,74.94,OUT4,2010,Large,Tier 1,Supermarket,362.54
+Item_300,6.28,Regular,0.015,Fruits,54.24,OUT3,2008,Large,Tier 1,Grocery Store,837.57
+Item_301,5.78,Low Fat,0.22,Canned,384.78,OUT3,2011,Medium,Tier 3,Grocery Store,1444.43
+Item_302,12.97,Regular,0.137,Dairy,308.13,OUT2,2016,Medium,Tier 2,Supermarket,1373.35
+Item_303,13.11,Low Fat,0.235,Snacks,173.64,OUT5,2014,Large,Tier 1,Grocery Store,1022.1
+Item_304,14.56,Regular,0.202,Snacks,153.79,OUT5,2016,Medium,Tier 3,Grocery Store,939.26
+Item_305,15.89,Regular,0.25,Fruits,172.4,OUT5,2017,Large,Tier 1,Grocery Store,861.21
+Item_306,19.64,Low Fat,0.094,Beverages,321.13,OUT4,2021,Medium,Tier 1,Supermarket,1913.99
+Item_307,12.74,Regular,0.194,Household,281.48,OUT5,2005,Small,Tier 2,Grocery Store,1494.82
+Item_308,9.84,Regular,0.106,Frozen Foods,114.82,OUT3,2016,Small,Tier 1,Grocery Store,492.47
+Item_309,16.93,Low Fat,0.125,Household,110.94,OUT4,2022,Large,Tier 3,Grocery Store,658.58
+Item_310,9.06,Regular,0.161,Snacks,84.44,OUT1,2017,Medium,Tier 3,Supermarket,710.4
+Item_311,11.58,Low Fat,0.22,Household,281.11,OUT5,2007,Medium,Tier 2,Grocery Store,1116.6
+Item_312,6.18,Regular,0.246,Fruits,317.53,OUT5,2008,Small,Tier 1,Supermarket,1742.14
+Item_313,5.38,Low Fat,0.194,Fruits,142.77,OUT1,2005,Small,Tier 3,Grocery Store,1239.5
+Item_314,19.44,Low Fat,0.11,Canned,57.33,OUT5,2004,Large,Tier 1,Supermarket,799.46
+Item_315,17.54,Regular,0.111,Snacks,78.76,OUT1,2011,Small,Tier 1,Grocery Store,821.13
+Item_316,15.44,Regular,0.187,Canned,388.75,OUT4,2010,Large,Tier 1,Grocery Store,1826.94
+Item_317,11.13,Regular,0.067,Snacks,153.41,OUT3,2000,Small,Tier 2,Supermarket,574.24
+Item_318,7.6,Regular,0.037,Frozen Foods,319.23,OUT1,2010,Small,Tier 1,Supermarket,1457.42
+Item_319,7.35,Regular,0.095,Frozen Foods,268.63,OUT2,2018,Medium,Tier 3,Supermarket,1452.66
+Item_320,8.75,Low Fat,0.079,Dairy,183.68,OUT1,2008,Small,Tier 1,Grocery Store,1102.89
+Item_321,13.24,Regular,0.081,Snacks,121.99,OUT5,2001,Small,Tier 3,Grocery Store,640.52
+Item_322,15.72,Low Fat,0.066,Beverages,92.49,OUT4,2011,Large,Tier 1,Grocery Store,505.07
+Item_323,14.9,Low Fat,0.02,Household,265.25,OUT4,2003,Small,Tier 3,Grocery Store,1618.07
+Item_324,9.2,Regular,0.014,Snacks,321.12,OUT1,2003,Large,Tier 3,Supermarket,1226.07
+Item_325,19.32,Low Fat,0.247,Vegetables,275.37,OUT3,2017,Small,Tier 1,Grocery Store,1770.04
+Item_326,16.07,Low Fat,0.113,Dairy,235.61,OUT2,2014,Small,Tier 1,Grocery Store,1591.53
+Item_327,13.32,Low Fat,0.102,Vegetables,64.68,OUT4,2018,Large,Tier 3,Grocery Store,705.5
+Item_328,14.18,Low Fat,0.173,Fruits,388.97,OUT5,2012,Medium,Tier 2,Grocery Store,1499.12
+Item_329,11.29,Regular,0.062,Frozen Foods,329.55,OUT5,2018,Large,Tier 1,Grocery Store,1452.24
+Item_330,8.72,Low Fat,0.238,Household,152.49,OUT3,2016,Large,Tier 2,Grocery Store,1050.92
+Item_331,10.34,Regular,0.199,Snacks,392.99,OUT4,2005,Large,Tier 1,Grocery Store,1800.55
+Item_332,16.37,Regular,0.031,Vegetables,260.66,OUT1,2015,Medium,Tier 1,Supermarket,840.28
+Item_333,5.22,Low Fat,0.11,Household,253.85,OUT5,2011,Small,Tier 1,Grocery Store,960.82
+Item_334,6.74,Regular,0.221,Fruits,311.83,OUT3,2018,Large,Tier 1,Grocery Store,1425.68
+Item_335,5.69,Regular,0.237,Frozen Foods,334.12,OUT4,2004,Large,Tier 2,Grocery Store,1467.95
+Item_336,5.61,Regular,0.122,Beverages,279.77,OUT4,2016,Medium,Tier 1,Grocery Store,1207.43
+Item_337,17.83,Low Fat,0.157,Dairy,94.83,OUT4,2022,Large,Tier 3,Supermarket,854.49
+Item_338,15.55,Regular,0.05,Household,168.39,OUT4,2000,Small,Tier 3,Supermarket,960.91
+Item_339,12.11,Regular,0.248,Household,374.83,OUT4,2022,Medium,Tier 2,Supermarket,1398.5
+Item_340,6.47,Regular,0.066,Beverages,128.62,OUT5,2009,Small,Tier 1,Supermarket,665.56
+Item_341,12.37,Low Fat,0.236,Household,180.26,OUT3,2014,Small,Tier 3,Supermarket,1103.57
+Item_342,12.1,Regular,0.166,Fruits,201.23,OUT4,2022,Medium,Tier 2,Supermarket,1007.94
+Item_343,7.6,Low Fat,0.156,Fruits,203.79,OUT2,2020,Large,Tier 1,Grocery Store,1240.53
+Item_344,11.51,Low Fat,0.133,Beverages,264.53,OUT2,2020,Small,Tier 3,Supermarket,1293.19
+Item_345,10.98,Low Fat,0.065,Dairy,380.08,OUT3,2010,Small,Tier 3,Supermarket,1416.8
+Item_346,14.24,Low Fat,0.052,Snacks,134.24,OUT1,2012,Small,Tier 2,Grocery Store,644.05
+Item_347,14.53,Low Fat,0.063,Vegetables,92.53,OUT1,2004,Small,Tier 1,Supermarket,874.89
+Item_348,5.68,Low Fat,0.055,Snacks,119.11,OUT1,2000,Medium,Tier 1,Grocery Store,727.74
+Item_349,10.62,Regular,0.197,Household,360.42,OUT2,2011,Medium,Tier 3,Grocery Store,1222.94
+Item_350,14.39,Low Fat,0.094,Vegetables,276.03,OUT1,2010,Small,Tier 3,Supermarket,1363.51
+Item_351,12.55,Regular,0.024,Canned,150.07,OUT5,2016,Large,Tier 3,Grocery Store,806.06
+Item_352,17.85,Regular,0.243,Beverages,335.58,OUT4,2003,Small,Tier 1,Supermarket,1328.01
+Item_353,14.88,Low Fat,0.222,Beverages,351.48,OUT2,2014,Large,Tier 2,Supermarket,1821.58
+Item_354,7.44,Regular,0.233,Dairy,346.28,OUT3,2008,Small,Tier 2,Grocery Store,1442.02
+Item_355,6.06,Regular,0.249,Vegetables,371.62,OUT3,2020,Large,Tier 1,Grocery Store,1727.43
+Item_356,14.64,Regular,0.052,Fruits,138.28,OUT4,2019,Small,Tier 2,Supermarket,1263.36
+Item_357,5.4,Regular,0.105,Vegetables,314.26,OUT2,2018,Large,Tier 3,Grocery Store,1510.83
+Item_358,13.79,Low Fat,0.192,Household,211.19,OUT1,2018,Small,Tier 2,Grocery Store,1036.85
+Item_359,19.1,Regular,0.177,Fruits,344.7,OUT1,2011,Small,Tier 2,Supermarket,1874.68
+Item_360,13.63,Low Fat,0.047,Frozen Foods,304.97,OUT5,2004,Large,Tier 2,Supermarket,1163.05
+Item_361,10.82,Regular,0.206,Frozen Foods,321.76,OUT5,2009,Medium,Tier 3,Grocery Store,1446.97
+Item_362,14.65,Regular,0.064,Canned,279.66,OUT1,2016,Large,Tier 1,Supermarket,1185.11
+Item_363,11.87,Low Fat,0.064,Frozen Foods,112.1,OUT3,2004,Medium,Tier 3,Supermarket,883.61
+Item_364,13.18,Regular,0.139,Beverages,240.76,OUT3,2021,Small,Tier 1,Supermarket,1509.3
+Item_365,19.12,Regular,0.152,Vegetables,394.63,OUT5,2015,Large,Tier 1,Supermarket,1595.72
+Item_366,10.79,Regular,0.149,Frozen Foods,378.09,OUT4,2006,Large,Tier 1,Supermarket,2021.38
+Item_367,19.42,Low Fat,0.032,Snacks,65.11,OUT1,2008,Large,Tier 2,Supermarket,565.32
+Item_368,18.58,Regular,0.221,Dairy,107.69,OUT5,2002,Medium,Tier 2,Supermarket,884.96
+Item_369,7.94,Low Fat,0.074,Snacks,96.11,OUT5,2014,Medium,Tier 1,Grocery Store,963.9
+Item_370,6.04,Regular,0.041,Frozen Foods,304.09,OUT1,2015,Small,Tier 1,Supermarket,1488.14
+Item_371,6.51,Low Fat,0.223,Canned,336.22,OUT1,2017,Medium,Tier 2,Grocery Store,1675.36
+Item_372,5.27,Low Fat,0.239,Dairy,124.73,OUT3,2013,Medium,Tier 3,Grocery Store,987.98
+Item_373,6.42,Regular,0.217,Household,227.05,OUT4,2002,Small,Tier 1,Grocery Store,1035.48
+Item_374,15.25,Regular,0.204,Snacks,344.25,OUT4,2011,Large,Tier 3,Supermarket,2242.02
+Item_375,6.07,Low Fat,0.167,Canned,306.48,OUT1,2008,Large,Tier 2,Supermarket,1420.09
+Item_376,9.78,Low Fat,0.142,Vegetables,239.78,OUT2,2006,Small,Tier 1,Grocery Store,1464.44
+Item_377,17.67,Regular,0.031,Vegetables,256.62,OUT5,2008,Large,Tier 3,Supermarket,1252.73
+Item_378,5.35,Low Fat,0.108,Snacks,227.93,OUT5,2012,Medium,Tier 3,Grocery Store,1191.05
+Item_379,17.22,Regular,0.099,Frozen Foods,154.14,OUT1,2017,Small,Tier 3,Supermarket,991.78
+Item_380,9.23,Regular,0.072,Canned,247.76,OUT2,2004,Small,Tier 2,Supermarket,1008.03
+Item_381,6.77,Regular,0.184,Vegetables,291.11,OUT3,2012,Small,Tier 2,Grocery Store,1068.06
+Item_382,15.45,Regular,0.129,Household,355.66,OUT1,2003,Large,Tier 3,Grocery Store,1641.96
+Item_383,14.43,Low Fat,0.029,Fruits,272.7,OUT1,2001,Small,Tier 3,Grocery Store,1294.75
+Item_384,18.16,Regular,0.063,Frozen Foods,316.39,OUT5,2015,Small,Tier 2,Supermarket,1776.66
+Item_385,16.03,Low Fat,0.174,Canned,106.03,OUT1,2008,Small,Tier 3,Grocery Store,581.64
+Item_386,17.05,Regular,0.028,Household,211.55,OUT1,2008,Large,Tier 3,Supermarket,941.95
+Item_387,9.23,Low Fat,0.214,Canned,53.27,OUT1,2005,Medium,Tier 2,Supermarket,614.92
+Item_388,7.66,Regular,0.129,Dairy,136.34,OUT5,2010,Small,Tier 3,Supermarket,759.01
+Item_389,16.26,Low Fat,0.125,Household,304.26,OUT3,2021,Medium,Tier 3,Grocery Store,1557.87
+Item_390,17.1,Low Fat,0.152,Frozen Foods,397.13,OUT3,2021,Large,Tier 3,Grocery Store,1605.67
+Item_391,19.86,Regular,0.208,Dairy,84.71,OUT1,2000,Large,Tier 2,Grocery Store,604.81
+Item_392,11.19,Regular,0.093,Frozen Foods,190.52,OUT5,2003,Large,Tier 3,Supermarket,1032.78
+Item_393,10.58,Regular,0.173,Vegetables,330.02,OUT3,2012,Large,Tier 2,Supermarket,1939.56
+Item_394,16.65,Regular,0.146,Fruits,121.41,OUT3,2022,Medium,Tier 2,Grocery Store,868.01
+Item_395,10.11,Low Fat,0.074,Frozen Foods,244.28,OUT3,2012,Small,Tier 1,Supermarket,1212.53
+Item_396,18.96,Regular,0.221,Frozen Foods,306.57,OUT5,2012,Large,Tier 1,Supermarket,1456.33
+Item_397,17.88,Low Fat,0.201,Vegetables,265.59,OUT5,2001,Large,Tier 3,Grocery Store,1139.56
+Item_398,11.43,Low Fat,0.168,Beverages,115.81,OUT1,2008,Medium,Tier 2,Grocery Store,639.57
+Item_399,16.26,Regular,0.214,Vegetables,174.38,OUT4,2007,Medium,Tier 1,Grocery Store,1266.26
+Item_400,16.32,Low Fat,0.218,Dairy,324.33,OUT3,2006,Large,Tier 3,Supermarket,1909.05
+Item_401,6.55,Low Fat,0.18,Vegetables,243.98,OUT4,2003,Small,Tier 1,Supermarket,1394.25
+Item_402,18.54,Low Fat,0.211,Vegetables,51.83,OUT5,2017,Small,Tier 1,Supermarket,584.61
+Item_403,12.58,Low Fat,0.177,Fruits,316.35,OUT5,2002,Large,Tier 2,Supermarket,1863.85
+Item_404,17.4,Regular,0.173,Vegetables,62.36,OUT5,2005,Medium,Tier 2,Supermarket,916.18
+Item_405,9.8,Regular,0.158,Canned,311.01,OUT4,2011,Large,Tier 1,Grocery Store,1147.56
+Item_406,18.43,Regular,0.191,Frozen Foods,120.87,OUT5,2011,Large,Tier 1,Supermarket,1188.57
+Item_407,10.84,Regular,0.048,Canned,385.33,OUT1,2020,Medium,Tier 2,Supermarket,1399.65
+Item_408,5.16,Low Fat,0.221,Fruits,178.78,OUT5,2007,Large,Tier 3,Supermarket,1236.39
+Item_409,18.58,Low Fat,0.219,Snacks,164.43,OUT2,2021,Large,Tier 2,Grocery Store,1284.18
+Item_410,6.37,Regular,0.017,Beverages,102.11,OUT4,2021,Large,Tier 1,Grocery Store,813.3
+Item_411,9.79,Regular,0.208,Canned,156.96,OUT2,2000,Medium,Tier 3,Grocery Store,791.21
+Item_412,19.25,Regular,0.041,Fruits,356.83,OUT5,2003,Small,Tier 1,Supermarket,1653.8
+Item_413,19.26,Low Fat,0.09,Dairy,398.72,OUT1,2020,Small,Tier 3,Grocery Store,1890.25
+Item_414,13.6,Regular,0.188,Snacks,178.91,OUT3,2010,Medium,Tier 1,Grocery Store,847.83
+Item_415,14.48,Regular,0.049,Fruits,207.01,OUT5,2002,Small,Tier 3,Grocery Store,799.04
+Item_416,11.73,Regular,0.206,Fruits,302.72,OUT1,2012,Large,Tier 3,Supermarket,1385.88
+Item_417,9.4,Low Fat,0.21,Beverages,360.17,OUT4,2016,Small,Tier 1,Grocery Store,1287.01
+Item_418,9.93,Low Fat,0.132,Frozen Foods,257.57,OUT2,2021,Large,Tier 3,Supermarket,1325.32
+Item_419,15.09,Low Fat,0.012,Canned,187.03,OUT2,2021,Small,Tier 2,Supermarket,947.41
+Item_420,16.29,Low Fat,0.079,Dairy,194.42,OUT2,2009,Medium,Tier 1,Grocery Store,1038.57
+Item_421,16.87,Low Fat,0.158,Household,293.47,OUT4,2020,Small,Tier 2,Supermarket,1383.32
+Item_422,16.84,Low Fat,0.245,Canned,51.13,OUT1,2011,Small,Tier 1,Grocery Store,593.56
+Item_423,6.37,Low Fat,0.162,Household,266.86,OUT4,2014,Small,Tier 3,Supermarket,1602.33
+Item_424,12.42,Low Fat,0.072,Fruits,174.42,OUT2,2020,Medium,Tier 3,Grocery Store,917.32
+Item_425,5.86,Regular,0.162,Vegetables,327.97,OUT5,2009,Small,Tier 3,Grocery Store,1742.87
+Item_426,13.24,Regular,0.14,Dairy,82.55,OUT3,2013,Medium,Tier 1,Grocery Store,817.95
+Item_427,11.62,Low Fat,0.197,Snacks,255.87,OUT4,2012,Large,Tier 2,Supermarket,1025.24
+Item_428,18.32,Low Fat,0.036,Vegetables,218.34,OUT4,2004,Small,Tier 2,Grocery Store,1088.55
+Item_429,10.26,Regular,0.193,Vegetables,274.81,OUT1,2005,Medium,Tier 1,Supermarket,843.53
+Item_430,6.76,Low Fat,0.14,Canned,72.7,OUT1,2001,Medium,Tier 1,Grocery Store,807.14
+Item_431,7.14,Low Fat,0.241,Dairy,252.99,OUT4,2021,Small,Tier 2,Supermarket,1045.99
+Item_432,16.42,Low Fat,0.092,Frozen Foods,246.52,OUT2,2016,Large,Tier 2,Supermarket,815.98
+Item_433,14.27,Regular,0.162,Fruits,246.23,OUT3,2003,Medium,Tier 2,Grocery Store,1296.33
+Item_434,6.52,Regular,0.234,Fruits,261.22,OUT1,2013,Small,Tier 2,Grocery Store,1489.74
+Item_435,6.26,Regular,0.035,Fruits,286.76,OUT2,2009,Large,Tier 1,Grocery Store,1391.28
+Item_436,15.51,Regular,0.235,Fruits,331.75,OUT5,2002,Medium,Tier 1,Grocery Store,684.66
+Item_437,6.09,Regular,0.175,Canned,144.44,OUT1,2002,Medium,Tier 3,Grocery Store,1004.55
+Item_438,17.33,Low Fat,0.026,Household,338.77,OUT2,2014,Large,Tier 2,Supermarket,1405.3
+Item_439,15.59,Regular,0.082,Fruits,224.39,OUT2,2005,Large,Tier 3,Grocery Store,558.34
+Item_440,6.22,Low Fat,0.18,Household,76.97,OUT3,2016,Small,Tier 1,Grocery Store,1083.76
+Item_441,6.27,Low Fat,0.026,Household,70.49,OUT3,2011,Small,Tier 1,Supermarket,954.68
+Item_442,19.8,Regular,0.15,Frozen Foods,166.98,OUT5,2021,Medium,Tier 3,Grocery Store,1079.11
+Item_443,10.61,Regular,0.093,Fruits,324.71,OUT2,2019,Large,Tier 2,Grocery Store,1191.22
+Item_444,10.56,Low Fat,0.159,Beverages,297.69,OUT2,2010,Large,Tier 2,Supermarket,1569.65
+Item_445,17.19,Low Fat,0.021,Snacks,326.02,OUT3,2003,Large,Tier 2,Grocery Store,1617.79
+Item_446,19.21,Low Fat,0.219,Vegetables,231.04,OUT1,2005,Medium,Tier 2,Grocery Store,1186.52
+Item_447,19.79,Regular,0.244,Household,204.07,OUT1,2000,Large,Tier 3,Grocery Store,1005.68
+Item_448,16.3,Regular,0.243,Dairy,101.61,OUT4,2019,Large,Tier 3,Supermarket,965.92
+Item_449,10.64,Regular,0.19,Dairy,164.87,OUT3,2022,Medium,Tier 1,Grocery Store,775.28
+Item_450,6.25,Regular,0.041,Snacks,201.91,OUT4,2015,Small,Tier 2,Supermarket,1323.21
+Item_451,16.66,Regular,0.192,Dairy,81.01,OUT3,2014,Small,Tier 2,Grocery Store,521.01
+Item_452,13.38,Low Fat,0.016,Beverages,127.21,OUT5,2016,Medium,Tier 2,Supermarket,1537.68
+Item_453,11.36,Regular,0.015,Dairy,259.38,OUT2,2007,Large,Tier 3,Grocery Store,1253.03
+Item_454,18.6,Low Fat,0.088,Vegetables,307.48,OUT5,2011,Medium,Tier 2,Supermarket,2057.18
+Item_455,6.67,Low Fat,0.127,Vegetables,399.42,OUT3,2021,Small,Tier 3,Supermarket,1792.98
+Item_456,12.39,Low Fat,0.195,Household,376.59,OUT2,2020,Small,Tier 2,Supermarket,1236.08
+Item_457,5.17,Regular,0.174,Fruits,274.9,OUT1,2009,Medium,Tier 2,Supermarket,1230.98
+Item_458,12.03,Regular,0.117,Frozen Foods,197.44,OUT1,2014,Medium,Tier 1,Supermarket,1320.9
+Item_459,5.84,Regular,0.076,Beverages,272.66,OUT4,2008,Small,Tier 2,Supermarket,1559.93
+Item_460,6.78,Low Fat,0.249,Household,324.98,OUT3,2001,Medium,Tier 2,Grocery Store,1823.31
+Item_461,6.76,Low Fat,0.112,Beverages,91.42,OUT3,2004,Small,Tier 1,Grocery Store,923.44
+Item_462,14.74,Low Fat,0.118,Fruits,193.47,OUT1,2005,Medium,Tier 3,Supermarket,989.03
+Item_463,16.19,Low Fat,0.049,Canned,343.93,OUT5,2006,Medium,Tier 3,Supermarket,1437.71
+Item_464,13.75,Low Fat,0.201,Dairy,184.34,OUT2,2020,Medium,Tier 2,Supermarket,976.85
+Item_465,19.43,Low Fat,0.176,Dairy,250.16,OUT5,2000,Small,Tier 3,Supermarket,1272.29
+Item_466,10.62,Regular,0.063,Frozen Foods,255.72,OUT5,2022,Medium,Tier 2,Grocery Store,1290.76
+Item_467,9.29,Regular,0.03,Fruits,114.57,OUT1,2006,Small,Tier 1,Supermarket,718.6
+Item_468,18.03,Regular,0.173,Household,176.78,OUT1,2019,Small,Tier 1,Grocery Store,1149.3
+Item_469,8.35,Regular,0.167,Frozen Foods,167.08,OUT1,2011,Medium,Tier 2,Grocery Store,1160.09
+Item_470,19.45,Low Fat,0.076,Fruits,59.17,OUT4,2015,Medium,Tier 1,Supermarket,722.19
+Item_471,5.18,Low Fat,0.238,Snacks,58.47,OUT5,2015,Small,Tier 1,Supermarket,584.74
+Item_472,19.55,Regular,0.046,Vegetables,341.09,OUT3,2010,Small,Tier 2,Grocery Store,1123.37
+Item_473,5.65,Low Fat,0.114,Frozen Foods,145.57,OUT2,2020,Large,Tier 2,Grocery Store,728.49
+Item_474,18.37,Regular,0.236,Frozen Foods,231.33,OUT4,2003,Small,Tier 1,Supermarket,1402.34
+Item_475,12.92,Regular,0.111,Household,154.55,OUT3,2012,Large,Tier 3,Supermarket,927.99
+Item_476,19.89,Regular,0.163,Beverages,379.24,OUT5,2006,Large,Tier 3,Supermarket,1397.05
+Item_477,6.11,Low Fat,0.105,Snacks,140.75,OUT1,2003,Large,Tier 2,Grocery Store,1339.16
+Item_478,13.31,Regular,0.076,Household,200.38,OUT5,2014,Medium,Tier 2,Grocery Store,1180.17
+Item_479,19.54,Regular,0.246,Fruits,355.46,OUT2,2018,Medium,Tier 3,Supermarket,1510.19
+Item_480,12.85,Regular,0.108,Fruits,344.68,OUT4,2008,Small,Tier 1,Grocery Store,1890.16
+Item_481,14.44,Low Fat,0.225,Fruits,115.14,OUT4,2010,Large,Tier 3,Grocery Store,1020.89
+Item_482,15.44,Low Fat,0.065,Canned,330.93,OUT2,2007,Medium,Tier 3,Supermarket,1729.0
+Item_483,11.82,Regular,0.061,Fruits,210.37,OUT3,2000,Medium,Tier 3,Supermarket,1231.94
+Item_484,14.41,Low Fat,0.017,Beverages,219.04,OUT3,2022,Medium,Tier 3,Grocery Store,1380.67
+Item_485,13.76,Low Fat,0.166,Snacks,96.72,OUT4,2007,Medium,Tier 2,Grocery Store,700.94
+Item_486,18.52,Low Fat,0.098,Dairy,78.21,OUT4,2012,Medium,Tier 2,Supermarket,712.87
+Item_487,5.68,Low Fat,0.217,Vegetables,304.78,OUT1,2021,Large,Tier 1,Supermarket,1503.04
+Item_488,9.21,Low Fat,0.124,Beverages,223.76,OUT3,2003,Large,Tier 1,Supermarket,1423.65
+Item_489,19.26,Low Fat,0.242,Beverages,202.9,OUT2,2007,Large,Tier 1,Supermarket,801.75
+Item_490,18.35,Low Fat,0.055,Canned,305.33,OUT3,2002,Large,Tier 1,Supermarket,1361.76
+Item_491,11.83,Low Fat,0.218,Dairy,317.93,OUT1,2008,Small,Tier 3,Grocery Store,1684.1
+Item_492,14.3,Low Fat,0.196,Dairy,105.62,OUT4,2001,Large,Tier 2,Grocery Store,777.69
+Item_493,9.16,Low Fat,0.195,Vegetables,263.58,OUT4,2001,Medium,Tier 2,Grocery Store,1719.31
+Item_494,7.82,Regular,0.213,Vegetables,97.37,OUT1,2012,Large,Tier 1,Grocery Store,700.97
+Item_495,11.96,Regular,0.193,Dairy,312.98,OUT2,2014,Small,Tier 1,Supermarket,1257.03
+Item_496,10.3,Low Fat,0.16,Fruits,279.93,OUT4,2022,Medium,Tier 3,Supermarket,964.21
+Item_497,13.75,Regular,0.041,Beverages,384.82,OUT5,2011,Large,Tier 3,Supermarket,1219.26
+Item_498,6.17,Regular,0.018,Household,74.14,OUT4,2003,Large,Tier 1,Grocery Store,920.94
+Item_499,19.62,Low Fat,0.231,Vegetables,69.97,OUT5,2007,Large,Tier 2,Grocery Store,498.43
+Item_500,19.79,Low Fat,0.158,Canned,148.77,OUT1,2008,Medium,Tier 2,Grocery Store,1078.61
